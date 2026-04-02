@@ -1,6 +1,6 @@
 {
   "latest_version": "1.1.0",
-  "changelog": "Parliament Chorus Hardening — Full codebase audit, 30 fixes across security, UX, and stability.",
+"changelog": "Parliament Chorus Hardening — Full codebase audit, 30 fixes across security, UX, and stability. Peek feature removed (attack surface reduction).",
   "urgency": "recommended",
   "download_url": "https://owllattice.github.io/owl-lattice/",
   "known_issues": ""
